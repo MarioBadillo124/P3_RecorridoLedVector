@@ -47,7 +47,7 @@ P3_RecorridoLedVector/
 ├── recorridoLedVector.py
 ├── README.md
 └── images/
-    ├── nano.jpeg
+    ├── recorrido.jpeg
     ├── terminal.jpeg
     ├── 1.jpeg
     ├── 2.jpeg
